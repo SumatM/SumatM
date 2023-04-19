@@ -9,7 +9,7 @@
 
 An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack development and proficiency in HTML, CSS, JavaScript, React, Redux, and ChakraUI is seeking opportunities to work in organizations that can challenge their abilities as a web developer.
 <br/>
-<div align="center"><a href="https://sumatm.github.io/"><img  src="https://img.shields.io/website?url=https%3A%2F%2Fsumatm.github.io%2F"/></a></div>
+<div align="center"><a target="_blank" href="https://sumatm.github.io/"><img  src="https://img.shields.io/website?url=https%3A%2F%2Fsumatm.github.io%2F"/></a></div>
 
 <br/>
 
