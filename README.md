@@ -1,20 +1,20 @@
 
 
-<h1 align="center">Wellcome ! I'm Sumat Mallick</h1>
+<h1 align="center">Wellcome🙂 ! I'm Sumat Mallick</h1>
 
 <p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=435&lines=A+Full+Stack+Web+Developer;A+Problem+Solver"/></p>
 
 
-# 📝 Summary
+  <h2 align="center"> 📝 Summary</h2>
 
 An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack development and proficiency in HTML, CSS, JavaScript, React, Redux, and ChakraUI is seeking opportunities to work in organizations that can challenge their abilities as a web developer.
-
+<br/>
+<div align="center"><a href="https://sumatm.github.io/"><img  src="https://img.shields.io/website?url=https%3A%2F%2Fsumatm.github.io%2F"/></a></div>
 
 <br/>
 
 
-# 😃 About Me
-
+  <h2 align="center">😃 About Me</h2>
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -41,7 +41,7 @@ An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack d
 <br>
 
 
-<h2 align="center"> :pencil: Languages and Tools:</h2>
+<h2 align="center"> 🎮 Languages and Tools:</h2>
 <p align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" height="25" /></a>  
@@ -57,4 +57,62 @@ An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack d
 
 <br>
 
+<h2 align="center"> :pencil: Familiar IDEs & Deployment sites</h2>
+<p align="center">
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+</p>
+<br>
 
+<h2 align="center"> 🏆 GitHub Stats </h2>
+
+
+
+
+ ![Sumat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumatM&show_icons=true&locale=en&theme=react&count_private=true) | ![Sumat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SumatM&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
+| :---: | :---: |
+
+
+
+
+<div align="center" style="display: flex; ">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumatM&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+
+
+</div> 
+<br>
+<div align="center"> 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=SumatM&theme=react" width="60%" />
+ </div>
+ <br>
+ 
+
+<div align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=SumatM&column=-1&theme=onedark&rank=-?&margin-w=0" width="80%" />
+ </div>
+
+<hr>
+
+<div align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=SumatM&label=Profile%20views&color=0e75b6&style=flat" alt="SumatM" />
+ <img src='https://visitor-badge.glitch.me/badge?page_id=SumatM' alt='visitor-badge' />
+ </div>
+<p align="center">
+  You can Support my work by Sharing and giving a ⭐ to my repositories
+ <div align="center">
+   Also, you can fork the repositories if you want.
+ </div>
+
+</p>
+
+ <div align="center">
+  <h3>🤩Best of My Works</h3>
+ <a href='https://github.com/SumatM/Indian-States' target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumatM&repo=Indian-States&theme=react"/>
+ </a>
+ <a href='https://github.com/SumatM/Spartan' target="_blank" rel="noopener noreferrer">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumatM&repo=Spartan&theme=react"/>
+ </a>
+</div>
