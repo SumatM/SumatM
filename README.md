@@ -2,6 +2,9 @@
 
 <h1 align="center">Wellcome🙂 ! I'm Sumat Mallick</h1>
 
+<br/>
+<br/>
+
 <p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=435&lines=A+Full+Stack+Web+Developer;A+Problem+Solver"/></p>
 
 
@@ -10,7 +13,9 @@
 An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack development and proficiency in HTML, CSS, JavaScript, React, Redux, and ChakraUI is seeking opportunities to work in organizations that can challenge their abilities as a web developer.
 <br/>
 <div align="center"><a target="_blank" href="https://sumatm.github.io/"><img  src="https://img.shields.io/website?url=https%3A%2F%2Fsumatm.github.io%2F"/></a></div>
-
+<div align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=SumatM&label=Profile%20views&color=0e75b6&style=flat" alt="SumatM" />
+ </div>
 <br/>
 
 
@@ -95,10 +100,7 @@ An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack d
 
 <hr>
 
-<div align="center"> 
- <img src="https://komarev.com/ghpvc/?username=SumatM&label=Profile%20views&color=0e75b6&style=flat" alt="SumatM" />
- <img src='https://visitor-badge.glitch.me/badge?page_id=SumatM' alt='visitor-badge' />
- </div>
+
 <p align="center">
   You can Support my work by Sharing and giving a ⭐ to my repositories
  <div align="center">
