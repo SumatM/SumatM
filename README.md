@@ -25,15 +25,15 @@ An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack d
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Chakra UI, Figma**
 
-- 📫 How to reach me **Sumatmallick@gmail.com**
+- 📫 How to reach me **Sumatmallick@gmail.com** 📩
 
-- 👯 Self Motivated
+- 👯 Self Motivated 🤩
 
-- ⚡ Quick learner
+- ⚡ Quick learner  😎 
 
-- ⚡ Fun fact **I am An artist**
+- ⚡ Fun fact **I am An artist**  🎨
 
-- ⚡ Want to Know More About Experiance: Check out My Resume
+- ⚡ Want to Know More About Experiance: &nbsp; Check out My &nbsp;&nbsp; <a href="https://drive.google.com/file/d/1y_buPcHDKpyd4wZsuiGcdFLvlYBfl7Oq/view?usp=drive_link" ><img src="https://img.shields.io/badge/resume-%23AD1457.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="resume"/></a>
 
 
 <br>
