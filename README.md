@@ -1,11 +1,15 @@
 
 
-<h1 align="center">Wellcome🙂 ! I'm Sumat Mallick</h1>
+<h1 align="center">Wellcome <img width="8%" src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif"/> ! I'm Sumat Mallick</h1>
 
 <br/>
 <br/>
 
-<p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=435&lines=A+Full+Stack+Web+Developer;A+Problem+Solver"/></p>
+<p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=435&lines=A+Full+Stack+Web+Developer💻;A+Problem+Solver"/></p>
+
+<br/>
+
+<p align='center' > <img width="50%" src="https://raw.githubusercontent.com/SumatM/typeScript-learning/5d379969c1bff1df41eeef85d5889479c76a0a13/src/354510-PAYTDU-666.jpg"/></p>
 
 
   <h2 align="center"> 📝 Summary</h2>
@@ -117,4 +121,10 @@ An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack d
  <a href='https://github.com/SumatM/Spartan' target="_blank" rel="noopener noreferrer">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumatM&repo=Spartan&theme=react"/>
  </a>
+</div>
+ <div align="center">
+ <a href='https://github.com/SumatM/Arivu' target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumatM&repo=Arivu&theme=react"/>
+ </a>
+
 </div>
