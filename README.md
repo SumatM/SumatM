@@ -91,11 +91,9 @@ An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack d
 
 
 </div> 
-<br>
-<div align="center"> 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=SumatM&theme=react" width="60%" />
- </div>
- <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumatM&bg_color=62b7ad&color=ffffff&line=f7f7f7&point=144a61&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
 
 <div align="center"> 
