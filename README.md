@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Wellcome <img width="8%" src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif"/> ! I'm Sumat Mallick</h1>
+<h1 align="center">Welcome <img width="8%" src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif"/> ! I'm Sumat Mallick</h1>
 
 <br/>
 <br/>
