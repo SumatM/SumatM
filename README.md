@@ -14,7 +14,7 @@
 
   <h2 align="center"> 📝 Summary</h2>
 
-An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack development and proficiency in HTML, CSS, JavaScript, React, Redux, and ChakraUI is seeking opportunities to work in organizations that can challenge their abilities as a web developer.
+An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack development and proficiency in HTML, CSS, JavaScript, React, Redux, MongoDB, and Express is seeking opportunities to work in organizations that can challenge their abilities as a web developer.
 <br/>
 <div align="center"><a target="_blank" href="https://sumatm.github.io/"><img  src="https://img.shields.io/website?url=https%3A%2F%2Fsumatm.github.io%2F"/></a></div>
 <div align="center"> 
@@ -27,7 +27,7 @@ An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack d
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Chakra UI, Figma**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Next.js, MongoDB**
 
 - 📫 How to reach me **Sumatmallick@gmail.com** 📩
 
