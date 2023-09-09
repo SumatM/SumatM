@@ -61,7 +61,8 @@ An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack d
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/whVycVD/pngfind-com-pc-master-race-png-1363736.png" alt="Express.js" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" height="25" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://www.coffeeclass.io/logos/chakra-ui.png" alt="Chakra UI" height="25" /></a>    
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://www.coffeeclass.io/logos/chakra-ui.png" alt="Chakra UI" height="25" /></a> 
+<a href="https://openai.com/blog/openai-api" target="_blank"><img style="margin: 10px" src="https://static.vecteezy.com/system/resources/previews/021/495/996/original/chatgpt-openai-logo-icon-free-png.png" alt="OpenAI API" height="25" /></a> 
 </p>
 
 <br>
