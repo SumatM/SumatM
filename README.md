@@ -1,129 +1,199 @@
-
-
 <h1 align="center">Welcome <img width="8%" src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif"/> ! I'm Sumat Mallick</h1>
 
 <br/>
+
+<p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=550&lines=Software+Engineer+%40+Capria.vc;Full+Stack+Developer;GenAI+Developer;2%2B+Years+of+Experience"/></p>
+
 <br/>
 
-<p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=435&lines=A+Full+Stack+Web+Developer💻;A+Problem+Solver"/></p>
+<p align='center'>
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+</p>
 
 <br/>
 
-<p align='center' > <img width="50%" src="https://raw.githubusercontent.com/SumatM/typeScript-learning/5d379969c1bff1df41eeef85d5889479c76a0a13/src/354510-PAYTDU-666.jpg"/></p>
+<h2 align="center">📝 About Me</h2>
 
+<p align="center">
+I'm a <b>Full Stack Developer</b> with a strong focus on <b>backend systems</b> and <b>AI integrations</b>, currently contributing to innovative solutions at <b>Capria.vc</b>. My tech stack includes tools like Flask, Django, Express.js, Next.js, React.js, and backend infrastructure with Redis, Docker, Supabase, DynamoDB, SQL, and Azure Containers.
+</p>
 
-  <h2 align="center"> 📝 Summary</h2>
+<p align="center">
+Lately, I've been deeply involved in building <b>AI-powered systems</b> using OpenAI, LangChain, CrewAI, and vector databases like Weaviate and Pinecone, with use cases around <b>LLM integration</b>, <b>RAG applications</b>, and <b>intelligent automation</b>.
+</p>
 
-An aspiring Full Stack Web Developer👨‍💻  with a passion for MERN Stack development and proficiency in HTML, CSS, JavaScript, React, Redux, MongoDB, and Express is seeking opportunities to work in organizations that can challenge their abilities as a web developer.
+<p align="center">
+I bring experience with system design, webhooks, Google OAuth, CAPTCHA v2, Selenium, and deployment tools like AWS EC2, DockerHub, Ubuntu, and platforms like GoDaddy.
+</p>
+
+<p align="center">
+A proud <b>Masai School</b> graduate with a Full Stack and Prompt Engineering certification, I combine solid development skills with a passion for crafting real-world impact. Outside of tech, I'm inspired by <b>nature, music, and yoga</b>, which help fuel a mindful and creative approach to building.
+</p>
+
+<div align="center">
+  <a target="_blank" href="https://sumatmallick.xyz"><img src="https://img.shields.io/badge/🌐_Portfolio-sumatmallick.xyz-14F765?style=for-the-badge"/></a>
+</div>
+
 <br/>
-<div align="center"><a target="_blank" href="https://sumatm.github.io/"><img  src="https://img.shields.io/website?url=https%3A%2F%2Fsumatm.github.io%2F"/></a></div>
+
 <div align="center"> 
- <img src="https://komarev.com/ghpvc/?username=SumatM&label=Profile%20views&color=0e75b6&style=flat" alt="SumatM" />
- </div>
+  <img src="https://komarev.com/ghpvc/?username=SumatM&label=Profile%20views&color=0e75b6&style=flat" alt="SumatM" />
+</div>
+
 <br/>
 
+<h2 align="center">💼 Experience</h2>
 
-  <h2 align="center">😃 About Me</h2>
+<table align="center">
+  <tr>
+    <th>Period</th>
+    <th>Company</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td>Jun 2024 - Present</td>
+    <td><b>Capria India</b></td>
+    <td>E2 Engineer — Generative AI Developer</td>
+  </tr>
+  <tr>
+    <td>Nov 2023 - Jun 2024</td>
+    <td><b>Capria India</b></td>
+    <td>Applied AI Developer</td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **MERN stack**
+<br/>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Next.js, MongoDB**
+<h2 align="center">😃 Quick Facts</h2>
 
-- 📫 How to reach me **Sumatmallick@gmail.com** 📩
-
-- 👯 Self Motivated 🤩
-
-- ⚡ Quick learner  😎 
-
-- ⚡ Fun fact **I am An artist**  🎨
-
-- ⚡ Want to Know More About Experience: &nbsp; Check out My &nbsp;&nbsp; <a target="_blank" href="https://drive.google.com/file/d/1ni4YYEIFx2EWl7TNt-B8ymbVc5wmK7qt/view" ><img src="https://img.shields.io/badge/resume-%23AD1457.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="resume"/></a>
-
+- 🔭 Currently working on **AI-powered systems** and **Full Stack Applications**
+- 🌱 Learning **Advanced LLM Optimization** & **System Design**
+- 💬 Ask me about **React, Next.js, Python, LangChain, OpenAI, RAG**
+- 👯 Self Motivated & Quick Learner 🤩
+- ⚡ Fun fact: **I am an artist** 🎨 | Inspired by **nature, music & yoga** 🧘
 
 <br>
+
 <h2 align="center"> 📲 Connect with me</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/sumat-mallick-65b966227/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+  <a href="https://github.com/sumatm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumat-mallick-65b966227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/sumatmallick" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://leetcode.com/sumatmallick" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 <br>
 
+<h2 align="center"> 🛠️ Tech Stack</h2>
 
-<h2 align="center"> 🎮 Languages and Tools:</h2>
-<p align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" height="25" /></a>   
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/whVycVD/pngfind-com-pc-master-race-png-1363736.png" alt="Express.js" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" height="25" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://www.coffeeclass.io/logos/chakra-ui.png" alt="Chakra UI" height="25" /></a> 
-<a href="https://openai.com/blog/openai-api" target="_blank"><img style="margin: 10px" src="https://static.vecteezy.com/system/resources/previews/021/495/996/original/chatgpt-openai-logo-icon-free-png.png" alt="OpenAI API" height="25" /></a> 
-</p>
-
-<br>
-
-<h2 align="center"> :pencil: Familiar IDEs & Deployment sites</h2>
+<h3 align="center">Frontend</h3>
 <p align="center">
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript_(ES7+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+<h3 align="center">AI / GenAI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector_DBs-7C3AED?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-FF4088?style=for-the-badge&logo=robot&logoColor=white"/>
+</p>
+
+<h3 align="center">Cloud & DevOps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 <br>
 
 <h2 align="center"> 🏆 GitHub Stats </h2>
 
-
-
-
- ![Sumat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumatM&show_icons=true&locale=en&theme=react&count_private=true) | ![Sumat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SumatM&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
+<div align="center">
+  
+![Sumat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumatM&show_icons=true&locale=en&theme=react&count_private=true) | ![Sumat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SumatM&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
 | :---: | :---: |
 
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumatM&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" width="40%" />
+</div>
 
+<br/>
 
-<div align="center" style="display: flex; ">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumatM&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
-
-
-</div> 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumatM&bg_color=62b7ad&color=ffffff&line=f7f7f7&point=144a61&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumatM&bg_color=0d1117&color=14F765&line=14F765&point=ffffff&area=true&hide_border=true)](https://github.com/sumatM)
 
 <div align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=SumatM&column=-1&theme=onedark&rank=-?&margin-w=0" width="80%" />
- </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=SumatM&column=-1&theme=onedark&rank=-?&margin-w=0" width="80%" />
+</div>
 
 <hr>
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <a href='https://github.com/SumatM/Spartan' target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumatM&repo=Spartan&theme=react"/>
+  </a>
+  <a href='https://github.com/SumatM/Arivu' target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumatM&repo=Arivu&theme=react"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href='https://github.com/SumatM/web_resume' target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumatM&repo=web_resume&theme=react"/>
+  </a>
+  <a href='https://github.com/SumatM/joke_genrator' target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumatM&repo=joke_genrator&theme=react"/>
+  </a>
+</div>
+
+<br/>
+
+<hr>
 
 <p align="center">
-  You can Support my work by Sharing and giving a ⭐ to my repositories
- <div align="center">
-   Also, you can fork the repositories if you want.
- </div>
-
+  <i>Let's connect if you're working on tech that solves meaningful problems or just want to talk code, creativity, or community!</i>
 </p>
 
- <div align="center">
-  <h3>🤩Best of My Works</h3>
- <a href='https://github.com/SumatM/Indian-States' target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumatM&repo=Indian-States&theme=react"/>
- </a>
- <a href='https://github.com/SumatM/Spartan' target="_blank" rel="noopener noreferrer">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumatM&repo=Spartan&theme=react"/>
- </a>
-</div>
- <div align="center">
- <a href='https://github.com/SumatM/Arivu' target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumatM&repo=Arivu&theme=react"/>
- </a>
+<p align="center">
+  <b>⭐ Star my repositories if you find them useful!</b>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
