@@ -2,7 +2,7 @@
 
 <br/>
 
-<p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=550&lines=Software+Engineer+%40+Capria.vc;Full+Stack+Developer;GenAI+Developer;2%2B+Years+of+Experience"/></p>
+<p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=550&lines=Software+Engineer+%40+Capria.vc;Full+Stack+Developer;Applied+GenAI+Developer;2%2B+Years+of+Experience"/></p>
 
 <br/>
 
@@ -197,3 +197,4 @@ A proud <b>Masai School</b> graduate with a Full Stack and Prompt Engineering ce
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
+
